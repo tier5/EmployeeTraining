@@ -1,1 +1,2 @@
 Some index file
+Developer 2 writes code
