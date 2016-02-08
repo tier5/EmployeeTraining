@@ -1,2 +1,4 @@
 Some index file
+
+Developer 1 writes code
 Developer 2 writes code
